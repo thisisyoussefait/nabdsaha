@@ -1,23 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://nabdsaha.com/bahth.html</loc>
+    <loc>https://nabdsaha.online/index.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://nabdsaha.online/tarif.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nabdsaha.com/maqal.html</loc>
+    <loc>https://nabdsaha.online/ahamiya.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nabdsaha.online/bahth.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nabdsaha.online/maqal.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://nabdsaha.com/sabahak.html</loc>
+    <loc>https://nabdsaha.online/sabahak.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://nabdsaha.com/calculator.html</loc>
+    <loc>https://nabdsaha.online/calculator.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 </urlset>
+
