@@ -36,6 +36,36 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://nabdsaha.online/tamarin-manzilia.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nabdsaha.online/fitar-sihi.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nabdsaha.online/tahsin-nawm.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nabdsaha.online/tawattur.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nabdsaha.online/shorb-al-maa.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nabdsaha.online/riyadat-mashi.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://nabdsaha.online/about.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
